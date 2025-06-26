@@ -7,7 +7,7 @@
 
 <br>
 
-![s1](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/assets/133582566/749ced9e-269c-4ab4-aae5-f7ba098da825)
+
 
 <table align="center">
     <thead align="center">
@@ -33,7 +33,7 @@
 
 ## Featured In
  <div>
-    <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Flexed%20Biceps.png?raw=true" width="35" height="35" > Open Source Programs</h2>
+
   </div>
   
 <table>
@@ -107,7 +107,7 @@ showcase their expertise. In the following sections, we will delve into the tech
 of the platform, which will provide a comprehensive understanding of the platform's
 features and functionalities.
 
-![s2](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/assets/133582566/489b151f-10a9-4e57-b4e7-1d1843518ab6)
+
 
 
 <hr>
